@@ -40,4 +40,9 @@ Aplicar técnicas de clusterização hierárquica e não hierárquica para segme
 - src/
 
 
+## Problema de negócio
+Segmentar clientes de cartão de crédito com base no comportamento de uso (gastos, cash advance, pagamentos, limites, frequência etc.) para apoiar decisões de negócio (campanhas, risco, retenção, limites, benefícios).
 
+- Pipeline reprodutível (EDA → preparação → modelagem → avaliação → interpretação).
+- Comparação entre K-Means e Hierárquico.
+- Perfis de segmentos (personas/descrições) e recomendações de ação.
