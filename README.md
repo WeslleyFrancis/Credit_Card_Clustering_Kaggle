@@ -62,3 +62,5 @@ Obs:
 - creditcard_credit_behavior_zscore: Comportamento de Crédito - Identificar exposição e dependência de crédito.
 - creditcard_consumption_zscore: Padrão de Consumo - Identificar padrão de consumo.
 - creditcard_full_zscore: Dataset Completo - Clusterização global exploratória.
+
+Encapsulamento: preprocessing.py
