@@ -77,7 +77,7 @@ Os resultados indicaram:
 - Ausência de ponto de inflexão claro no gráfico de Elbow  
 ![Elbow Method](reports/figures/03_KMEANS_elbow_full.png)
 
-- Valores de Silhouette relativamente baixos (~0.17 a 0.22)  
+- Valores de Silhouette relativamente baixos (0.17 a 0.22)  
 ![Silhouette Method](reports/figures/03_KMEANS_Silhouette_full.png)
 
 - Melhor valor de Silhouette em **K = 2**
